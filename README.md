@@ -199,3 +199,5 @@ jwt:
     - [ ] id 와 userNo 의 용어를 혼용하여 사용하고 있습니다. 리팩토링이 완전히 진행된 이후에는 User 의 id 를 좀 더 명확인 네이밍인 userNo 로 완전히 대체해야 합니다.
     - [ ] [Authorization](./src/main/java/com/woowacourse/tecobrary/user/command/domain/Authorization.java)도 필드에 레거시 코드의 인가 정책을 그대로 사용합니다. 리팩토링이 완전히 진행된 후에는 필드를 제거할 수 있도록 합니다. 
 
+
+### Jenkins build TEST
