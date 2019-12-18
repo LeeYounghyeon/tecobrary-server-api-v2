@@ -11,7 +11,7 @@ spring:
         format_sql: true
   datasource:
     url: jdbc:mysql://13.125.242.239:3306/tecobrary?useUnicode=true&characterEncoding=utf8&allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC
-    username: root
+    username: testUser
     password: tecobrary
   http:
     encoding:
